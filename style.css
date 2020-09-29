@@ -41,7 +41,22 @@ a {
 }
 
 /* Theme */
-
+body{
+  background-color: #fafafa;
+}
+header{
+  padding: 2rem 4rem;
+  display: flex;
+  justify-content: space-between;
+}
+header h1{
+  color: #222;
+  padding: 1rem;
+  }
+header a{
+  color: #222;
+  font-size: 3.2rem;
+}
 .backWheel,
 .frontWheel,
 .char,
